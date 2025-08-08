@@ -1,2 +1,2 @@
 # Face-Recognition-Attendance-Management-System
-Attandance can mark through Face Recognition 
+Attendance can mark through Face Recognition 
